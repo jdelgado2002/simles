@@ -2,8 +2,10 @@
 
 using ServiceStack.ServiceHost;
 namespace simlesService.Model {
+    using ServiceStack.ServiceInterface.ServiceModel;
 
     [Route("/client", "POST")]
+    [Route("/client/{Id}", "POST")]
     public class Client {
         public int Id { get; set; }
 
@@ -20,5 +22,7 @@ namespace simlesService.Model {
 
     public class ClientResponse {
         public int Id { get; set; }
+        //the below catches exception data and sends it as part of the response
+        public ResponseStatus ResponseStatus { get; set; }
     }
 }
