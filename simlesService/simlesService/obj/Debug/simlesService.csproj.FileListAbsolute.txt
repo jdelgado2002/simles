@@ -16,3 +16,21 @@ C:\Users\jdelgado\Documents\simles\simlesService\simlesService\bin\ServiceStack.
 C:\Users\jdelgado\Documents\simles\simlesService\simlesService\obj\Debug\simlesService.csprojResolveAssemblyReference.cache
 C:\Users\jdelgado\Documents\simles\simlesService\simlesService\obj\Debug\simlesService.dll
 C:\Users\jdelgado\Documents\simles\simlesService\simlesService\obj\Debug\simlesService.pdb
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\simlesService.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\simlesService.pdb
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Common.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Interfaces.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.OrmLite.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Redis.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.ServiceInterface.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Text.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.xml
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Common.xml
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Interfaces.xml
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Redis.xml
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\bin\ServiceStack.Text.xml
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\obj\Debug\simlesService.csprojResolveAssemblyReference.cache
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\obj\Debug\simlesService.dll
+C:\Users\jose delga\Documents\Projects\simles\simlesService\simlesService\obj\Debug\simlesService.pdb
