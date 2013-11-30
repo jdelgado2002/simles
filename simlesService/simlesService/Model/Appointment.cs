@@ -1,13 +1,11 @@
-﻿using ServiceStack.ServiceHost;
+﻿using System;
+using ServiceStack.ServiceHost;
+using ServiceStack.ServiceInterface.ServiceModel;
 
 namespace simlesService.Model
 {
-    using System;
-
-    using ServiceStack.ServiceInterface.ServiceModel;
-
-    [Route("/appointment","POST")]
-    [Route("/appointment/{Id}","POST")]
+    [Route("/appointment", "POST")]
+    [Route("/appointment/{Id}", "POST")]
     public class Appointment
     {
         public int Id { get; set; }
@@ -15,10 +13,10 @@ namespace simlesService.Model
         public DateTime Time { get; set; }
 
         public Client Client { get; set; }
-
     }
 
-    public class AppointmentResponse {
+    public class AppointmentResponse
+    {
         public int Id { get; set; }
         public ResponseStatus ResponseStatus { get; set; }
     }
